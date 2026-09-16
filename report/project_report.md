@@ -1,12 +1,10 @@
 # Python Security Toolkit — Project Report
 
-> **Submission note:** Replace every bracketed placeholder with your real information and actual lab results. Do not claim a test was completed unless you performed it.
 
 ## 1. Cover Page
 
 **Project Title:** Python Security Toolkit  
 **Student Name:** Mrunal Prashant Pimpale  
-**Roll Number:** [Roll Number]  
 **Course/Subject:** BE - Computer Engineering  
 **Institution:** New Horizon Institute of Technology and Management  
 **Academic Year:** Second year  
@@ -164,5 +162,4 @@ The Python Security Toolkit demonstrates how multiple network-security concepts 
 I confirm that the testing described in this report was performed only on systems, interfaces, and networks for which I had appropriate authorization.
 
 **Name:** Mrunal Prashant Pimpale  
-**Signature:** [Signature if required]  
 **Date:** 16-09-2026
