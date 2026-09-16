@@ -1,8 +1,5 @@
 # Screenshots
 
-Place the project testing screenshots in this folder.
-
-Recommended files:
 - 01-main-menu.png
 - 02-mac-changer.png
 - 03-network-scanner.png
