@@ -5,12 +5,12 @@
 ## 1. Cover Page
 
 **Project Title:** Python Security Toolkit  
-**Student Name:** [Your Name]  
+**Student Name:** Mrunal Prashant Pimpale  
 **Roll Number:** [Roll Number]  
-**Course/Subject:** [Course Name]  
-**Institution:** [Institution Name]  
-**Academic Year:** [Year]  
-**Submission Date:** [Date]
+**Course/Subject:** BE - Computer Engineering  
+**Institution:** New Horizon Institute of Technology and Management  
+**Academic Year:** Second year  
+**Submission Date:** 16-09-2026
 
 ## 2. Abstract
 
@@ -163,6 +163,6 @@ The Python Security Toolkit demonstrates how multiple network-security concepts 
 
 I confirm that the testing described in this report was performed only on systems, interfaces, and networks for which I had appropriate authorization.
 
-**Name:** [Your Name]  
+**Name:** Mrunal Prashant Pimpale  
 **Signature:** [Signature if required]  
-**Date:** [Date]
+**Date:** 16-09-2026
